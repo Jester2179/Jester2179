@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jester2179, AKA Jess
+- 👋 Hi, I’m @Jester2179 , AKA Jess
 - 👀 I’m interested in coding fun projects
 - 🌱 I’m currently learning Python, and soon Java
 - 💞️ I’m looking to collaborate on Random projects to grow my learning
